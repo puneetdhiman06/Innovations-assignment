@@ -27,7 +27,7 @@ mongoose
 
 app.use(
   cors({
-    origin: ["https://https://innovations-assignment.web.app/"],
+    origin: ["https://innovations-assignment.web.app/"],
     methods: ["GET", "POST"],
     credentials: true,
   })
